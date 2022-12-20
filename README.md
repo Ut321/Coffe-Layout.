@@ -1,6 +1,7 @@
-# coffeeUI
+# COFFEEUI
 
 A new Flutter project.
+![CoffeeLayout](https://user-images.githubusercontent.com/64413631/208622556-a80333b3-50d5-42d5-b7e4-e034a0214901.jpg)
 
 ## Getting Started
 
